@@ -609,7 +609,7 @@ figure figcaption a:hover span{
 	text-decoration:underline;
 }
 
-@media all and (max-width: 949px) {
+@media only screen and (max-width: 949px) {
   aside {
     display: none;
   }
